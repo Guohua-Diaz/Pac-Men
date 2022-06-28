@@ -22,7 +22,7 @@
   
   </html>
 
-  ## Instructions
+ ## How to run
      1. Clone the repo (remember which folder the repo was cloned)
      2. Open Chrome.
      3. On Chrome, click File->Open File
